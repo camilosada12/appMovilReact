@@ -1,0 +1,404 @@
+D:\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+D:\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+D:\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+D:\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+D:\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+D:\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+D:\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+D:\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+D:\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+D:\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+D:\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+D:\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Business\obj\Debug\net8.0\ref\Business.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Business.deps.json
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Business.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Business.pdb
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Data.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Entity.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Utilities.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Data.pdb
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Utilities.pdb
+C:\ensayo\c#\MER_Proyect1.5\Business\bin\Debug\net8.0\Entity.pdb
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\refint\Business.dll
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\Business.pdb
+C:\ensayo\c#\MER_Proyect1.5\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+c:\Users\SENA\Desktop\Angular\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Email.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Email.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Email.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Email.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Email.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Email.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Business\obj\Debug\net8.0\ref\Business.dll
