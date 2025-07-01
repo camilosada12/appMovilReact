@@ -1,0 +1,14 @@
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\bin\Debug\Diagram1.dll.config
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\bin\Debug\Diagram1.dll
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\bin\Debug\Diagram1.pdb
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\obj\Debug\Diagram1.csproj.AssemblyReference.cache
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\obj\Debug\Diagram1.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\obj\Debug\Diagram1.dll
+C:\Users\Ingrid Medina\OneDrive\Documentos\Visual Studio 2022\Mer_Proyecto\Diagram1\obj\Debug\Diagram1.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\bin\Debug\Diagram1.dll.config
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\bin\Debug\Diagram1.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\bin\Debug\Diagram1.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.pdb

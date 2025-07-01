@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DocumentInfractionSet" EntityType="Model1.DocumentInfraction" />
+    <EntitySet Name="VehiculoSet" EntityType="Model1.Vehiculo" />
+    <EntitySet Name="ClienteSet" EntityType="Model1.Cliente" />
+    <EntitySet Name="ReservaSet" EntityType="Model1.Reserva" />
+    <EntitySet Name="DetalleReservaSet" EntityType="Model1.DetalleReserva" />
+    <EntitySet Name="TipoVehiculoSet" EntityType="Model1.TipoVehiculo" />
+    <AssociationSet Name="TipoVehiculoVehiculo" Association="Model1.TipoVehiculoVehiculo">
+      <End Role="TipoVehiculo" EntitySet="TipoVehiculoSet" />
+      <End Role="Vehiculo" EntitySet="VehiculoSet" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteReserva" Association="Model1.ClienteReserva">
+      <End Role="Cliente" EntitySet="ClienteSet" />
+      <End Role="Reserva" EntitySet="ReservaSet" />
+    </AssociationSet>
+    <AssociationSet Name="DetalleReservaVehiculo" Association="Model1.DetalleReservaVehiculo">
+      <End Role="DetalleReserva" EntitySet="DetalleReservaSet" />
+      <End Role="Vehiculo" EntitySet="VehiculoSet" />
+    </AssociationSet>
+    <AssociationSet Name="ReservaDetalleReserva" Association="Model1.ReservaDetalleReserva">
+      <End Role="Reserva" EntitySet="ReservaSet" />
+      <End Role="DetalleReserva" EntitySet="DetalleReservaSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DocumentInfraction">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Vehiculo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="TipoVehiculo" Relationship="Model1.TipoVehiculoVehiculo" FromRole="Vehiculo" ToRole="TipoVehiculo" />
+    <NavigationProperty Name="DetalleReserva" Relationship="Model1.DetalleReservaVehiculo" FromRole="Vehiculo" ToRole="DetalleReserva" />
+    <Property Name="caracteristicasVehiculo" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Apellido" Type="String" Nullable="false" />
+    <NavigationProperty Name="Reserva" Relationship="Model1.ClienteReserva" FromRole="Cliente" ToRole="Reserva" />
+  </EntityType>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Cliente" Relationship="Model1.ClienteReserva" FromRole="Reserva" ToRole="Cliente" />
+    <Property Name="FechaInicio" Type="Int32" Nullable="false" />
+    <Property Name="FechaFin" Type="String" Nullable="false" />
+    <Property Name="Estado" Type="String" Nullable="false" />
+    <Property Name="Total" Type="String" Nullable="false" />
+    <NavigationProperty Name="DetalleReserva" Relationship="Model1.ReservaDetalleReserva" FromRole="Reserva" ToRole="DetalleReserva" />
+  </EntityType>
+  <EntityType Name="DetalleReserva">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Vehiculo" Relationship="Model1.DetalleReservaVehiculo" FromRole="DetalleReserva" ToRole="Vehiculo" />
+    <Property Name="precio" Type="String" Nullable="false" />
+    <Property Name="cantidad" Type="String" Nullable="false" />
+    <Property Name="dias" Type="String" Nullable="false" />
+    <NavigationProperty Name="Reserva" Relationship="Model1.ReservaDetalleReserva" FromRole="DetalleReserva" ToRole="Reserva" />
+  </EntityType>
+  <EntityType Name="TipoVehiculo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tipoVehiculo" Type="String" Nullable="false" />
+    <Property Name="PrecioVehiculo" Type="String" Nullable="false" />
+    <NavigationProperty Name="Vehiculo" Relationship="Model1.TipoVehiculoVehiculo" FromRole="TipoVehiculo" ToRole="Vehiculo" />
+  </EntityType>
+  <Association Name="TipoVehiculoVehiculo">
+    <End Type="Model1.TipoVehiculo" Role="TipoVehiculo" Multiplicity="*" />
+    <End Type="Model1.Vehiculo" Role="Vehiculo" Multiplicity="1" />
+  </Association>
+  <Association Name="ClienteReserva">
+    <End Type="Model1.Cliente" Role="Cliente" Multiplicity="1" />
+    <End Type="Model1.Reserva" Role="Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="FechaInicio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DetalleReservaVehiculo">
+    <End Type="Model1.DetalleReserva" Role="DetalleReserva" Multiplicity="*" />
+    <End Type="Model1.Vehiculo" Role="Vehiculo" Multiplicity="1" />
+  </Association>
+  <Association Name="ReservaDetalleReserva">
+    <End Type="Model1.Reserva" Role="Reserva" Multiplicity="1" />
+    <End Type="Model1.DetalleReserva" Role="DetalleReserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reserva">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleReserva">
+        <PropertyRef Name="ReservaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
