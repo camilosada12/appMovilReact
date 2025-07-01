@@ -1,0 +1,1111 @@
+[
+  {
+    "ContainingType": "Web.Controllers.EmailController",
+    "Method": "EnviarCorreo",
+    "RelativePath": "api/Email/enviar-correo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Entity.Model.EmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/FormControllerPrueba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/FormControllerPrueba",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.FormDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/FormControllerPrueba",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.FormDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/FormControllerPrueba/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/FormControllerPrueba/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/FormControllerPrueba/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/FormControllerPrueba/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Form, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/FormControllerPrueba/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/FormModule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/FormModule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.FormModuleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/FormModule",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.FormModuleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/FormModule/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/FormModule/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/FormModule/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/FormModule/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.FormModule, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.FormModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/FormModule/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.LoginController",
+    "Method": "login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.LoginController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/Login/google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenDto",
+        "Type": "Entity.DTOs.GoogleTokenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.mensajeTelegram",
+    "Method": "EnviarMensajeTelegram",
+    "RelativePath": "api/mensajeTelegram/telegram",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mensaje",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Module",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Module",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.ModuleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Module",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.ModuleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Module/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Module/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Module/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/Module/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Module, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.ModuleDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/Module/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Permission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Permission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.PermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Permission",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.PermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Permission/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Permission/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Permission/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/Permission/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Permission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/Permission/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Person",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.PersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Person",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.PersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/Person/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.Person, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.PersonDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/Person/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Rol",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Rol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.rolDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Rol",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.rolDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Rol/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Rol/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Rol/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/Rol/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.rol, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.rolDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/Rol/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.RolFormPermissionController",
+    "Method": "GetAll",
+    "RelativePath": "api/RolFormPermission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/RolFormPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.RolFormPermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/RolFormPermission",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.RolFormPermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/RolFormPermission/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/RolFormPermission/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/RolFormPermission/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/RolFormPermission/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolFormPermission, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolFormPermissionDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/RolFormPermission/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RolUserController",
+    "Method": "GetAll",
+    "RelativePath": "api/RolUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/RolUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.RolUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/RolUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.RolUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/RolUser/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/RolUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/RolUser/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/RolUser/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.RolUser, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.RolUserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/RolUser/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/User",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.UserController",
+    "Method": "GetAllWithPerson",
+    "RelativePath": "api/User/con-persona",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDeleted",
+    "RelativePath": "api/User/deleted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.GenericController\u00602[[Entity.Model.User, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.DTOs.UserDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetDynamicAsync",
+    "RelativePath": "api/User/dynamic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

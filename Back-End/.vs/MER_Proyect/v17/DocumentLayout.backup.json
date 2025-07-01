@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D301ADB2-597E-436E-B9B5-C1BF5713EB77}|Business\\Business.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\business\\services\\basemodelbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D301ADB2-597E-436E-B9B5-C1BF5713EB77}|Business\\Business.csproj|solutionrelative:business\\services\\basemodelbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\moduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\model\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\model\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\service-extensions\\servicescors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\service-extensions\\servicescors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\service-extensions\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\service-extensions\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\service-extensions\\servicedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\service-extensions\\servicedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\service-extensions\\serviceautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\service-extensions\\serviceautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D301ADB2-597E-436E-B9B5-C1BF5713EB77}|Business\\Business.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\business\\token\\creartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D301ADB2-597E-436E-B9B5-C1BF5713EB77}|Business\\Business.csproj|solutionrelative:business\\token\\creartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3865FF69-7A12-433C-9745-BC47EE60C7CF}|Data\\Data.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\data\\repository\\basemodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3865FF69-7A12-433C-9745-BC47EE60C7CF}|Data\\Data.csproj|solutionrelative:data\\repository\\basemodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E1EC4E-445D-44C1-A897-59758E8C6540}|Web\\Web.csproj|solutionrelative:web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D301ADB2-597E-436E-B9B5-C1BF5713EB77}|Business\\Business.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\business\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D301ADB2-597E-436E-B9B5-C1BF5713EB77}|Business\\Business.csproj|solutionrelative:business\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\context\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\relacionesmodel\\relacionesrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\relacionesmodel\\relacionesrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\relacionesmodel\\relacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\relacionesmodel\\relacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\relacionesmodel\\relacionpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\relacionesmodel\\relacionpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\relacionesmodel\\relacioneslog .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\relacionesmodel\\relacioneslog .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\datainit\\formmoduledatainit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\datainit\\formmoduledatainit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|c:\\users\\camilo\\desktop\\trabajo-acoplamiento\\back-end\\entity\\datainit\\formdatainit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467874F7-1E9B-4A7E-B160-A9E41BB251BF}|Entity\\Entity.csproj|solutionrelative:entity\\datainit\\formdatainit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\RolUserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\RolUserDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\RolUserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\RolUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:46:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:46:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolFormPermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\RolFormPermissionDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\RolFormPermissionDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\RolFormPermissionDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\RolFormPermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:46:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rolDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\rolDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\rolDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\rolDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\rolDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:46:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:46:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\PermissionDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\PermissionDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\PermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:45:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseModelBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\Services\\BaseModelBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\BaseModelBusiness.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\Services\\BaseModelBusiness.cs",
+              "RelativeToolTip": "Business\\Services\\BaseModelBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:53:15.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\ModuleDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\ModuleDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\ModuleDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\ModuleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:26:48.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\PersonDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:23:53.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Model\\Person.cs",
+              "RelativeToolTip": "Entity\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:50:09.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Model\\Module.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Module.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Model\\Module.cs",
+              "RelativeToolTip": "Entity\\Model\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:40:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\GenericController.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "Web\\Controllers\\GenericController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAQwO0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:09:25.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Controllers\\FormModuleController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\FormModuleController.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Controllers\\FormModuleController.cs",
+              "RelativeToolTip": "Web\\Controllers\\FormModuleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:09:22.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Model\\Form.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Form.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Model\\Form.cs",
+              "RelativeToolTip": "Entity\\Model\\Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:01:16.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDto.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\FormDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\FormDto.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DTOs\\FormDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\FormDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:00:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T22:31:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicesCors.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServicesCors.cs",
+              "RelativeDocumentMoniker": "Web\\Service-Extensions\\ServicesCors.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServicesCors.cs",
+              "RelativeToolTip": "Web\\Service-Extensions\\ServicesCors.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:08:47.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServiceDatabase.cs",
+              "RelativeDocumentMoniker": "Web\\Service-Extensions\\ServiceDatabase.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServiceDatabase.cs",
+              "RelativeToolTip": "Web\\Service-Extensions\\ServiceDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:08:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T18:29:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Web\\Service-Extensions\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServiceRepository.cs",
+              "RelativeToolTip": "Web\\Service-Extensions\\ServiceRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:27:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrearToken.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\Token\\CrearToken.cs",
+              "RelativeDocumentMoniker": "Business\\Token\\CrearToken.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\Token\\CrearToken.cs",
+              "RelativeToolTip": "Business\\Token\\CrearToken.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:08:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:52:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseModelData.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Data\\Repository\\BaseModelData.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\BaseModelData.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Data\\Repository\\BaseModelData.cs",
+              "RelativeToolTip": "Data\\Repository\\BaseModelData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:11:54.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:08:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServiceAutoMapper.cs",
+              "RelativeDocumentMoniker": "Web\\Service-Extensions\\ServiceAutoMapper.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Web\\Service-Extensions\\ServiceAutoMapper.cs",
+              "RelativeToolTip": "Web\\Service-Extensions\\ServiceAutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:07:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Business\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Business\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:04:58.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RelacionesRol.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionesRol.cs",
+              "RelativeDocumentMoniker": "Entity\\relacionesModel\\RelacionesRol.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionesRol.cs",
+              "RelativeToolTip": "Entity\\relacionesModel\\RelacionesRol.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:39:56.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RelacionPermission.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionPermission.cs",
+              "RelativeDocumentMoniker": "Entity\\relacionesModel\\RelacionPermission.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionPermission.cs",
+              "RelativeToolTip": "Entity\\relacionesModel\\RelacionPermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:39:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Context\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\Context\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Entity\\Context\\ApplicationDbContext .cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:39:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RelacionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionForm.cs",
+              "RelativeDocumentMoniker": "Entity\\relacionesModel\\RelacionForm.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionForm.cs",
+              "RelativeToolTip": "Entity\\relacionesModel\\RelacionForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:36:04.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RelacionesLog .cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionesLog .cs",
+              "RelativeDocumentMoniker": "Entity\\relacionesModel\\RelacionesLog .cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\relacionesModel\\RelacionesLog .cs",
+              "RelativeToolTip": "Entity\\relacionesModel\\RelacionesLog .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:36:02.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormModuleDataInit.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DataInit\\FormModuleDataInit.cs",
+              "RelativeDocumentMoniker": "Entity\\DataInit\\FormModuleDataInit.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DataInit\\FormModuleDataInit.cs",
+              "RelativeToolTip": "Entity\\DataInit\\FormModuleDataInit.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:29:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormDataInit.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DataInit\\FormDataInit.cs",
+              "RelativeDocumentMoniker": "Entity\\DataInit\\FormDataInit.cs",
+              "ToolTip": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Entity\\DataInit\\FormDataInit.cs",
+              "RelativeToolTip": "Entity\\DataInit\\FormDataInit.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:26:01.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

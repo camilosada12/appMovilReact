@@ -1,0 +1,366 @@
+D:\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+D:\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+D:\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+D:\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+D:\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+D:\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+D:\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+D:\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\trabajoSena\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect - copia\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\ADSO-2900177-Piscicontrol\MER_Proyect1.5\Data\obj\Debug\net8.0\ref\Data.dll
+C:\ensayo\c#\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.deps.json
+C:\ensayo\c#\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\ensayo\c#\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.dll
+C:\ensayo\c#\MER_Proyect1.5\Data\bin\Debug\net8.0\Data.pdb
+C:\ensayo\c#\MER_Proyect1.5\Data\bin\Debug\net8.0\Entity.dll
+C:\ensayo\c#\MER_Proyect1.5\Data\bin\Debug\net8.0\Entity.pdb
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.dll
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\refint\Data.dll
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.pdb
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\ensayo\c#\MER_Proyect1.5\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\GUERRERO\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\EDITH\Desktop\ModelSecurity\BackEnd\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\Ambiente 209-1\Desktop\front-y-back\MER_Proyect\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\SENA\Desktop\front-y-back\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\SENA\Desktop\Angular\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\SENA\Desktop\Angular\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+c:\Users\SENA\Desktop\Angular\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\SENA\Desktop\Front-Angular-corredor\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\SENA\Desktop\repoAngular\trabajo-angular\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\AdminSena\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Utilities.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Email.dll
+C:\Users\Camilo\Desktop\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Email.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Email.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Utilities.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Email.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\Camilo\Documents\trabajo-angular\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Email.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Utilities.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Email.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\bin\Debug\net8.0\Utilities.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Data\obj\Debug\net8.0\ref\Data.dll
