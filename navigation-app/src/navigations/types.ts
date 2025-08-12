@@ -22,6 +22,24 @@ export type PermissionTasckParamsList = {
   PermissionRegister: undefined;
   PermissionDelete: {id : string};
 }
+export type RolTasckParamsList = {
+  RolList: undefined;
+  RolUpdate: { id: string };
+  RolRegister: undefined;
+  RolDelete: {id : string};
+}
+export type UserStack = {
+  UserList: undefined;
+  UserUpdate: { id: string };
+  UserRegister: undefined;
+  UserDelete: {id : string};
+}
+export type FormModuleTackParamsList = {
+  FormModuleList: undefined;
+  FormModuleUpdate: { id: string };
+  FormModuleRegister: undefined;
+  FormModuleDelete: {id : string};
+}
 /*
 undefined =  indica que la vista no requiere parametros
 

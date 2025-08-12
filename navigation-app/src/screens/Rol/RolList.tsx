@@ -1,41 +1,41 @@
-// screens/form/FormList.tsx
+
 import React, { useCallback, useState } from "react";
 import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from "react-native";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
-import { FormtackParamsList } from "../../navigations/types";
-import { IForm } from "../../api/types/IForm";
+import { RolTasckParamsList } from "../../navigations/types";
 import { getAllEntity } from "../../api/apiForm";
+import { IRol } from "../../api/types/IRol";
 
-type FormScreenNavigationProp = NativeStackNavigationProp<FormtackParamsList, "FormList">;
+type RolScreenNavigationProp = NativeStackNavigationProp<RolTasckParamsList, "RolList">;
 
-const FormList = () => {
-  const navigation = useNavigation<FormScreenNavigationProp>();
-  const [forms, setForms] = useState<IForm[]>([]);
+const RolList = () => {
+  const navigation = useNavigation<RolScreenNavigationProp>();
+  const [roles, setRoles] = useState<IRol[]>([]);
 
-  const fetchForms = useCallback(async () => {
+  const fetchRoles = useCallback(async () => {
     try {
-      const data = await getAllEntity<IForm>("FormControllerPrueba");
-      setForms(data); // Si quieres ocultar eliminados: .filter(f => !f.isdeleted)
+      const data = await getAllEntity<IRol>("RolControllerPrueba");
+      setRoles(data); // Si quieres ocultar eliminados: .filter(f => !f.isdeleted)
     } catch (error) {
-      console.error("Error al traer los formularios", error);
+      console.error("Error al traer los roles", error);
     }
   }, []);
 
   useFocusEffect(
     useCallback(() => {
-      fetchForms();
-    }, [fetchForms])
+      fetchRoles();
+    }, [fetchRoles])
   );
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity style={styles.addButton} onPress={() => navigation.navigate("FormRegister")}>
-        <Text style={styles.addButtonText}>➕ Agregar Formulario</Text>
+      <TouchableOpacity style={styles.addButton} onPress={() => navigation.navigate("RolRegister")}>
+        <Text style={styles.addButtonText}>➕ Agregar Rol</Text>
       </TouchableOpacity>
 
       <ScrollView style={styles.listContainer}>
-        {forms.map((item) => (
+        {roles.map((item) => (
           <View key={item.id} style={styles.card}>
             <Text style={styles.title}>{item.name}</Text>
             <Text style={styles.description}>{item.description}</Text>
@@ -52,14 +52,14 @@ const FormList = () => {
             <View style={styles.buttonRow}>
               <TouchableOpacity
                 style={styles.updateButton}
-                onPress={() => navigation.navigate("FormUpdate", { id: item.id.toString() })}
+                onPress={() => navigation.navigate("RolUpdate", { id: item.id.toString() })}
               >
                 <Text style={styles.buttonText}>✏️ Actualizar</Text>
               </TouchableOpacity>
 
               <TouchableOpacity
                 style={styles.deleteButton}
-                onPress={() => navigation.navigate("FormDelete", { id: item.id.toString() })}
+                onPress={() => navigation.navigate("RolDelete", { id: item.id.toString() })}
               >
                 <Text style={styles.buttonText}>🗑️ Eliminar</Text>
               </TouchableOpacity>
@@ -126,4 +126,4 @@ const styles = StyleSheet.create({
   buttonText: { color: "#fff", fontWeight: "bold" },
 });
 
-export default FormList;
+export default RolList;
