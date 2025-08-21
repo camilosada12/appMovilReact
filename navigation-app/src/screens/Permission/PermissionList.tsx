@@ -1,6 +1,6 @@
 // screens/permission/PermissionList.tsx
 import React, { useCallback, useState } from "react";
-import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from "react-native";
+import { View, Text, TouchableOpacity, StyleSheet, ScrollView, RefreshControl } from "react-native";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { PermissionTasckParamsList } from "../../navigations/types";
@@ -12,6 +12,7 @@ type Nav = NativeStackNavigationProp<PermissionTasckParamsList, "PermissionList"
 const PermissionList = () => {
   const navigation = useNavigation<Nav>();
   const [permissions, setPermissions] = useState<IPermission[]>([]);
+   const [refreshing, setRefreshing] = useState(false);
 
   const fetchPermissions = useCallback(async () => {
     try {
@@ -21,6 +22,11 @@ const PermissionList = () => {
       console.error("Error al traer los permisos", error);
     }
   }, []);
+
+    const onRefresh = useCallback(async () => {
+      try { setRefreshing(true); await fetchPermissions(); }
+      finally { setRefreshing(false); }
+    }, [fetchPermissions]);
 
   useFocusEffect(
     useCallback(() => {
@@ -37,7 +43,16 @@ const PermissionList = () => {
         <Text style={styles.addButtonText}>➕ Agregar permiso</Text>
       </TouchableOpacity>
 
-      <ScrollView style={styles.listContainer}>
+      <ScrollView style={styles.listContainer}
+      refreshControl={
+        <RefreshControl
+          refreshing={refreshing}
+          onRefresh={onRefresh}
+          colors={["#4caf50"]}
+          tintColor="#4caf50"
+        />
+      }
+      >
         {permissions.length === 0 ? (
           <View style={styles.empty}>
             <Text style={styles.emptyText}>No hay permisos aún.</Text>
@@ -47,15 +62,6 @@ const PermissionList = () => {
             <View key={item.id} style={styles.card}>
               <Text style={styles.title}>{item.name}</Text>
               <Text style={styles.description}>{item.description}</Text>
-
-              <View style={styles.statusContainer}>
-                <Text style={[styles.status, item.active ? styles.active : styles.inactive]}>
-                  {item.active ? "Activo" : "Inactivo"}
-                </Text>
-                <Text style={[styles.status, item.isdeleted ? styles.deleted : styles.ok]}>
-                  {item.isdeleted ? "Eliminado" : "Correcto"}
-                </Text>
-              </View>
 
               <View style={styles.buttonRow}>
                 <TouchableOpacity
@@ -106,14 +112,6 @@ const styles = StyleSheet.create({
   },
   title: { fontSize: 18, fontWeight: "bold", color: "#3f51b5", marginBottom: 6 },
   description: { fontSize: 14, color: "#555", marginBottom: 10 },
-  statusContainer: { flexDirection: "row", justifyContent: "space-between", marginBottom: 12 },
-  status: {
-    fontSize: 12, fontWeight: "bold", paddingVertical: 4,
-    paddingHorizontal: 8, borderRadius: 4, overflow: "hidden",
-  },
-  active: { backgroundColor: "#d0f0d0", color: "green" },
-  inactive: { backgroundColor: "#f8d7da", color: "red" },
-  deleted: { backgroundColor: "#f8d7da", color: "red" },
   ok: { backgroundColor: "#d0f0d0", color: "green" },
   buttonRow: { flexDirection: "row", justifyContent: "space-between" },
   updateButton: {

@@ -1,46 +1,43 @@
-// screens/module/ModuleList.tsx
+// screens/rol-user/RolUserList.tsx
 import React, { useCallback, useState } from "react";
 import { View, Text, TouchableOpacity, StyleSheet, ScrollView, RefreshControl } from "react-native";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
-import { IModule } from "../../api/types/IModule";
-import { ModuleTasckParamsList } from "../../navigations/types";
+
 import { getAllEntity } from "../../api/apiForm";
+import { RolUserTackParamsList } from "../../navigations/types";
+import { IRolUserDynamic } from "../../api/types/TypeDynamic/IRolUserDynamic";
 
-type ModuleScreenNavigationProp = NativeStackNavigationProp<ModuleTasckParamsList, "ModuleList">;
+type Nav = NativeStackNavigationProp<RolUserTackParamsList, "RolUserList">;
 
-const ModuleList = () => {
-  const navigation = useNavigation<ModuleScreenNavigationProp>();
-  const [modules, setModules] = useState<IModule[]>([]);
+const RolUserList: React.FC = () => {
+  const navigation = useNavigation<Nav>();
+  const [rows, setRows] = useState<IRolUserDynamic[]>([]);
   const [refreshing, setRefreshing] = useState(false);
 
-  const fetchModules = useCallback(async () => {
-    try {
-      const data = await getAllEntity<IModule>("Module");
-      setModules(Array.isArray(data) ? data : []); // Si quieres ocultar eliminados: .filter(m => !m.isdeleted)
-    } catch (error) {
-      console.error("Error al traer los módulos", error);
-    }
+  const fetchRows = useCallback(async () => {
+    const data = await getAllEntity<IRolUserDynamic>("RolUser/dynamic");
+    setRows(Array.isArray(data) ? data : []);
   }, []);
 
   const onRefresh = useCallback(async () => {
-    try { setRefreshing(true); await fetchModules(); }
+    try { setRefreshing(true); await fetchRows(); }
     finally { setRefreshing(false); }
-  }, [fetchModules]);
+  }, [fetchRows]);
 
-  useFocusEffect(
-    useCallback(() => {
-      fetchModules(); // se recarga al volver de Delete
-    }, [fetchModules])
-  );
+  useFocusEffect(useCallback(() => { onRefresh(); }, [onRefresh]));
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity style={styles.addButton} onPress={() => navigation.navigate("ModuleRegister")}>
-        <Text style={styles.addButtonText}>➕ Agregar Módulo</Text>
+      <TouchableOpacity
+        style={styles.addButton}
+        onPress={() => navigation.navigate("RolUserRegister")}
+      >
+        <Text style={styles.addButtonText}>➕ Vincular Rol–Usuario</Text>
       </TouchableOpacity>
 
-      <ScrollView style={styles.listContainer}
+      <ScrollView
+        style={styles.listContainer}
         refreshControl={
           <RefreshControl
             refreshing={refreshing}
@@ -50,28 +47,28 @@ const ModuleList = () => {
           />
         }
       >
-        {modules.length === 0 ? (
+        {rows.length === 0 ? (
           <View style={styles.empty}>
-            <Text style={styles.emptyText}>No hay módulos aún.</Text>
+            <Text style={styles.emptyText}>No hay relaciones aún.</Text>
           </View>
         ) : (
-          modules.map((item) => (
-            <View key={item.id} style={styles.card}>
-              <Text style={styles.title}>{item.name}</Text>
-              <Text style={styles.description}>{item.description}</Text>
+          rows.map((item) => (
+            <View key={String(item.id)} style={styles.card}>
+              <Text style={styles.title}>
+                {item.RolName ?? "Rol (sin nombre)"} → {item.UserUsername ?? "Usuario (sin nombre)"}
+              </Text>
 
               <View style={styles.buttonRow}>
                 <TouchableOpacity
                   style={styles.updateButton}
-                  onPress={() => navigation.navigate("ModuleUpdate", { id: item.id.toString() })}
+                  onPress={() => navigation.navigate("RolUserUpdate", { id: String(item.id) })}
                 >
                   <Text style={styles.buttonText}>✏️ Actualizar</Text>
                 </TouchableOpacity>
 
-                {/* Opción B: navegar a la pantalla de Delete (confirmación y borrado allá) */}
                 <TouchableOpacity
                   style={styles.deleteButton}
-                  onPress={() => navigation.navigate("ModuleDelete", { id: item.id.toString() })}
+                  onPress={() => navigation.navigate("RolUserDelete", { id: String(item.id) })}
                 >
                   <Text style={styles.buttonText}>🗑️ Eliminar</Text>
                 </TouchableOpacity>
@@ -107,25 +104,24 @@ const styles = StyleSheet.create({
     shadowRadius: 4,
     elevation: 4,
   },
-  title: { fontSize: 18, fontWeight: "bold", color: "#3f51b5", marginBottom: 6 },
-  description: { fontSize: 14, color: "#555", marginBottom: 10 },
-  ok: { backgroundColor: "#d0f0d0", color: "green" },
+  title: { fontSize: 16, fontWeight: "bold", color: "#3f51b5", marginBottom: 8 },
   buttonRow: { flexDirection: "row", justifyContent: "space-between" },
   updateButton: {
     backgroundColor: "#2196f3",
     paddingVertical: 8,
-    paddingHorizontal: 16,
+    paddingHorizontal: 12,
     borderRadius: 6,
     flex: 1,
-    marginRight: 8,
+    marginRight: 6,
     alignItems: "center",
   },
   deleteButton: {
     backgroundColor: "#f44336",
     paddingVertical: 8,
-    paddingHorizontal: 16,
+    paddingHorizontal: 12,
     borderRadius: 6,
     flex: 1,
+    marginLeft: 6,
     alignItems: "center",
   },
   buttonText: { color: "#fff", fontWeight: "bold" },
@@ -138,4 +134,4 @@ const styles = StyleSheet.create({
   emptyText: { color: "#666" },
 });
 
-export default ModuleList;
+export default RolUserList;

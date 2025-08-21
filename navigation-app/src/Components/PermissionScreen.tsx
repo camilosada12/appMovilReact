@@ -27,16 +27,6 @@ const PermissionScreen: React.FC<Props> = ({ Permission, handleChange }) => {
         value={Permission.description}
         onChangeText={(text) => handleChange("description", text)}
       />
-
-      <View style={styles.switchContainer}>
-        <Text style={styles.label}>Activo</Text>
-        <Switch
-          value={Permission.active}
-          onValueChange={(value) => handleChange("active", value)}
-          thumbColor={Permission.active ? "#4CAF50" : "#f4f3f4"}
-          trackColor={{ false: "#ccc", true: "#81C784" }}
-        />
-      </View>
     </ScrollView>
   );
 };

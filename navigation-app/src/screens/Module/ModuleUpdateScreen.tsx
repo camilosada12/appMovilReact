@@ -1,14 +1,18 @@
 import React, { useEffect, useState } from "react";
-import { View, Text, TouchableOpacity, StyleSheet, Alert, Switch } from "react-native";
+import { View, TouchableOpacity, Text, StyleSheet, Alert } from "react-native";
 import { RouteProp, useRoute, useNavigation } from "@react-navigation/native";
+import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { ModuleTasckParamsList } from "../../navigations/types";
 import { getByIdEntity, updateEntity } from "../../api/apiForm";
-import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { IModule } from "../../api/types/IModule";
 import ModuleScreen from "../../Components/ModuleScreen";
 
 type DetailsRouteProp = RouteProp<ModuleTasckParamsList, "ModuleUpdate">;
 type NavigationProp = NativeStackNavigationProp<ModuleTasckParamsList>;
+
+const MIN_CHARS = 3;
+const MAX_CHARS = 30;
+const countLetters = (s: string) => (s ?? "").replace(/\s/g, "").length;
 
 export default function ModuleUpdateScreen() {
   const [Module, setModule] = useState<IModule>({
@@ -25,52 +29,72 @@ export default function ModuleUpdateScreen() {
   const [originalModule, setOriginalModule] = useState<IModule | null>(null);
 
   useEffect(() => {
-  const fetchData = async () => {
-    try {
-      const response = await getByIdEntity<IModule>(Number(id), "Module");
-      setModule(response);
-      setOriginalModule(response);  // Guardas copia original
-    } catch (error) {
-      Alert.alert("Error", "No se pudo obtener el Modulo.");
-    }
-  };
+    const fetchData = async () => {
+      try {
+        const response = await getByIdEntity<IModule>(Number(id), "Module");
+        setModule(response);
+        setOriginalModule(response);
+      } catch {
+        Alert.alert("Error", "No se pudo obtener el Módulo.");
+      }
+    };
+    fetchData();
+  }, [id]);
 
-  fetchData();
-}, []);
-
-  const handleChange = (name: string, value: string | boolean) => {
-    setModule({ ...Module, [name]: value });
+  const handleChange = (name: keyof IModule, value: string | boolean) => {
+    setModule(prev => ({ ...prev, [name]: value } as IModule));
   };
 
   const requestUpdateModule = async () => {
-  if (!originalModule) return;
+    if (!originalModule) return;
 
-  const hasChanges =
-    Module.name.trim() !== originalModule.name.trim() ||
-    Module.description.trim() !== originalModule.description.trim() ||
-    Module.active !== originalModule.active;
+    const newName = (Module.name ?? "").trim();
+    const newDesc = (Module.description ?? "").trim();
+    const oldName = (originalModule.name ?? "").trim();
+    const oldDesc = (originalModule.description ?? "").trim();
 
-  if (!hasChanges) {
-    Alert.alert("Sin cambios", "Debes realizar al menos un cambio real para actualizar.");
-    return;
-  }
+    if (!newName || !newDesc) {
+      Alert.alert("Validación", "Nombre y Descripción no pueden quedar vacíos.");
+      return;
+    }
 
-  try {
-    await updateEntity<IModule>(Module, "Module");
-    Alert.alert("Éxito", "modulo actualizado correctamente.", [
-      { text: "OK", onPress: () => navigation.goBack() },
-    ]);
-  } catch (error) {
-    console.error("Error completo:", error);
-    Alert.alert("Error", "Hubo un problema al actualizar el Modulo.");
-  }
-};
+    const nameLen = countLetters(newName);
+    const descLen = countLetters(newDesc);
+    if (nameLen < MIN_CHARS || nameLen > MAX_CHARS || descLen < MIN_CHARS || descLen > MAX_CHARS) {
+      Alert.alert(
+        "Validación",
+        `Nombre y Descripción deben tener entre ${MIN_CHARS} y ${MAX_CHARS} letras (sin espacios).\n\n` +
+        `• Nombre: ${nameLen}/${MIN_CHARS}-${MAX_CHARS}\n` +
+        `• Descripción: ${descLen}/${MIN_CHARS}-${MAX_CHARS}`
+      );
+      return;
+    }
 
+    const hasChanges =
+      newName !== oldName ||
+      newDesc !== oldDesc ||
+      Module.active !== originalModule.active;
+
+    if (!hasChanges) {
+      Alert.alert("Sin cambios", "Debes realizar al menos un cambio real para actualizar.");
+      return;
+    }
+
+    const payload: IModule = { ...Module, name: newName, description: newDesc };
+
+    try {
+      await updateEntity<IModule>(payload, "Module");
+      Alert.alert("Éxito", "Módulo actualizado correctamente.", [
+        { text: "OK", onPress: () => navigation.goBack() },
+      ]);
+    } catch {
+      Alert.alert("Error", "Hubo un problema al actualizar el Módulo.");
+    }
+  };
 
   return (
     <View style={styles.container}>
-      <ModuleScreen Module={Module} handleChange={handleChange}/>
-
+      <ModuleScreen Module={Module} handleChange={handleChange} />
       <TouchableOpacity style={styles.button} onPress={requestUpdateModule}>
         <Text style={styles.buttonText}>Guardar Cambios</Text>
       </TouchableOpacity>
@@ -79,20 +103,7 @@ export default function ModuleUpdateScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    padding: 16,
-    backgroundColor: "#fff",
-  },
-  button: {
-    backgroundColor: "#4a90e2",
-    padding: 12,
-    borderRadius: 8,
-    alignItems: "center",
-    marginTop: 16,
-  },
-  buttonText: {
-    color: "#fff",
-    fontWeight: "bold",
-  },
+  container: { flex: 1, padding: 16, backgroundColor: "#fff" },
+  button: { backgroundColor: "#4a90e2", padding: 12, borderRadius: 8, alignItems: "center", marginTop: 16 },
+  buttonText: { color: "#fff", fontWeight: "bold" },
 });

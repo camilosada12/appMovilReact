@@ -61,12 +61,6 @@ export default function UserDeleteScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>¿Seguro que deseas eliminar este usuario?</Text>
 
-      <Text style={styles.label}>Usuario:</Text>
-      <Text style={styles.value}>{user.userName}</Text>
-
-      <Text style={styles.label}>Persona:</Text>
-      <Text style={styles.value}>{personName}</Text>
-
       <TouchableOpacity style={styles.deleteButton} onPress={handleDelete}>
         <Text style={styles.buttonText}>Eliminar</Text>
       </TouchableOpacity>

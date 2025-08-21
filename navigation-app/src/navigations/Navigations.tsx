@@ -1,10 +1,11 @@
 import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
+
+// ICONS
 import AntDesign from "@expo/vector-icons/AntDesign";
 
-// Screens
+// Screens CRUD (las tuyas)
 import FormList from "../screens/Form/FormList";
 import FormRegisterScreen from "../screens/Form/FormRegisterScreen";
 import FormUpdateScreen from "../screens/Form/FormUpdateScreen";
@@ -25,191 +26,160 @@ import PermissionRegisterScreen from "../screens/Permission/PermissionRegisterSc
 import PermissionUpdateScreen from "../screens/Permission/PermissionUpdateScreen";
 import PermissionDeleteScreen from "../screens/Permission/PermissionDeleteScreen";
 
-import FormModuleList from "../screens/FormModule/FormModuleList";
-import FormModuleRegisterScreen from "../screens/FormModule/FormModuleRegisterScreen";
-import FormModuleUpdateScreen from "../screens/FormModule/FormModuleUpdateScreen";
-import FormModuleDeleteScreen from "../screens/FormModule/FormModuleDeleteScreen";
 import RolList from "../screens/Rol/RolList";
 import RolRegisterScreen from "../screens/Rol/RolRegisterScreen";
 import RolUpdateScreen from "../screens/Rol/RolUpdateScreen";
 import RolDeleteScreen from "../screens/Rol/RolDeleteScreen";
+
 import UserList from "../screens/User/UserList";
 import UserRegisterScreen from "../screens/User/UserRegisterScreen";
 import UserUpdateScreen from "../screens/User/UserUpdateScreen";
 import UserDeleteScreen from "../screens/User/UserDeleteScreen";
 
+import FormModuleList from "../screens/FormModule/FormModuleList";
+import FormModuleRegisterScreen from "../screens/FormModule/FormModuleRegisterScreen";
+import FormModuleUpdateScreen from "../screens/FormModule/FormModuleUpdateScreen";
+import FormModuleDeleteScreen from "../screens/FormModule/FormModuleDeleteScreen";
+import HomeScreen from "../screens/home/HomeScreen";
+import RolUserList from "../screens/RolUser/RolUserList";
+import RolUserRegisterScreen from "../screens/RolUser/RolUserRegisterScreen";
+import RolUserUpdateScreen from "../screens/RolUser/RolUserUpdateScreen";
+import RolUserDeleteScreen from "../screens/RolUser/RolUserDeleteScreen";
+import RolFormPermissionList from "../screens/RolFormPermission/RolFormPermissionList";
+import RolFormPermissionRegisterScreen from "../screens/RolFormPermission/RolFormPermissionRegisterScreen";
+import RolFormPermissionDeleteScreen from "../screens/RolFormPermission/RolFormPermissionDeleteScreen";
+import RolFormPermissionUpdateScreen from "../screens/RolFormPermission/RolFormPermissionUpdateScreen";
 
-// Stacks
-const FormStackNavigator = createNativeStackNavigator();
-const ModuleStackNavigator = createNativeStackNavigator();
-const Tab = createBottomTabNavigator();
+
+const RootStack = createNativeStackNavigator();
+const FormStackNav = createNativeStackNavigator();
+const ModuleStackNav = createNativeStackNavigator();
+const PersonStackNav = createNativeStackNavigator();
+const PermissionStackNav = createNativeStackNavigator();
+const RolStackNav = createNativeStackNavigator();
+const UserStackNav = createNativeStackNavigator();
+const FormModuleStackNav = createNativeStackNavigator();
 
 function FormStack() {
   return (
-    <FormStackNavigator.Navigator>
-      <FormStackNavigator.Screen name="FormList" component={FormList} options={{ title: "Lista de Formularios" }} />
-      <FormStackNavigator.Screen name="FormRegister" component={FormRegisterScreen} options={{ title: "Registrar Formulario" }} />
-      <FormStackNavigator.Screen name="FormUpdate" component={FormUpdateScreen} options={{ title: "Actualizar Formulario" }} />
-      <FormStackNavigator.Screen name="FormDelete" component={FormDeleteScreen} options={{ title: "Eliminar Formulario" }} />
-    </FormStackNavigator.Navigator>
+    <FormStackNav.Navigator initialRouteName="FormList">
+      <FormStackNav.Screen name="FormList" component={FormList} options={{ title: "Lista de Formularios" }} />
+      <FormStackNav.Screen name="FormRegister" component={FormRegisterScreen} options={{ title: "Registrar Formulario" }} />
+      <FormStackNav.Screen name="FormUpdate" component={FormUpdateScreen} options={{ title: "Actualizar Formulario" }} />
+      <FormStackNav.Screen name="FormDelete" component={FormDeleteScreen} options={{ title: "Eliminar Formulario" }} />
+    </FormStackNav.Navigator>
   );
 }
 
 function ModuleStack() {
   return (
-    <ModuleStackNavigator.Navigator>
-      <ModuleStackNavigator.Screen name="ModuleList" component={ModuleList} options={{ title: "Lista de Módulos" }} />
-      <ModuleStackNavigator.Screen name="ModuleRegister" component={ModuleRegisterScreen} options={{ title: "Registrar Módulo" }} />
-      <ModuleStackNavigator.Screen name="ModuleUpdate" component={ModuleUpdateScreen} options={{ title: "Actualizar Módulo" }} />
-      <ModuleStackNavigator.Screen name="ModuleDelete" component={ModuleDeleteScreen} options={{ title: "Eliminar Módulo" }} />
-    </ModuleStackNavigator.Navigator>
+    <ModuleStackNav.Navigator initialRouteName="ModuleList">
+      <ModuleStackNav.Screen name="ModuleList" component={ModuleList} options={{ title: "Lista de Módulos" }} />
+      <ModuleStackNav.Screen name="ModuleRegister" component={ModuleRegisterScreen} options={{ title: "Registrar Módulo" }} />
+      <ModuleStackNav.Screen name="ModuleUpdate" component={ModuleUpdateScreen} options={{ title: "Actualizar Módulo" }} />
+      <ModuleStackNav.Screen name="ModuleDelete" component={ModuleDeleteScreen} options={{ title: "Eliminar Módulo" }} />
+    </ModuleStackNav.Navigator>
   );
 }
 
 function PersonStack() {
   return (
-    <ModuleStackNavigator.Navigator>
-      <ModuleStackNavigator.Screen name="PersonList" component={PersonList} options={{ title: "Lista de Personas" }} />
-      <ModuleStackNavigator.Screen name="PersonRegister" component={PersonRegisterScreen} options={{ title: "Registrar Personas" }} />
-      <ModuleStackNavigator.Screen name="PersonUpdate" component={PersonUpdateScreen} options={{ title: "Actualizar Personas" }} />
-      <ModuleStackNavigator.Screen name="PersonDelete" component={PersonDeleteScreen} options={{ title: "Eliminar Personas" }} />
-    </ModuleStackNavigator.Navigator>
+    <PersonStackNav.Navigator initialRouteName="PersonList">
+      <PersonStackNav.Screen name="PersonList" component={PersonList} options={{ title: "Lista de Personas" }} />
+      <PersonStackNav.Screen name="PersonRegister" component={PersonRegisterScreen} options={{ title: "Registrar Personas" }} />
+      <PersonStackNav.Screen name="PersonUpdate" component={PersonUpdateScreen} options={{ title: "Actualizar Personas" }} />
+      <PersonStackNav.Screen name="PersonDelete" component={PersonDeleteScreen} options={{ title: "Eliminar Personas" }} />
+    </PersonStackNav.Navigator>
   );
 }
 
 function PermissionStack() {
   return (
-    <ModuleStackNavigator.Navigator>
-      <ModuleStackNavigator.Screen name="PermissionList" component={PermissionList} options={{ title: "Lista de permisos" }} />
-      <ModuleStackNavigator.Screen name="PermissionRegister" component={PermissionRegisterScreen} options={{ title: "Registrar permisos" }} />
-      <ModuleStackNavigator.Screen name="PermissionUpdate" component={PermissionUpdateScreen} options={{ title: "Actualizar permisos" }} />
-      <ModuleStackNavigator.Screen name="PermissionDelete" component={PermissionDeleteScreen} options={{ title: "Eliminar permisos" }} />
-    </ModuleStackNavigator.Navigator>
+    <PermissionStackNav.Navigator initialRouteName="PermissionList">
+      <PermissionStackNav.Screen name="PermissionList" component={PermissionList} options={{ title: "Lista de permisos" }} />
+      <PermissionStackNav.Screen name="PermissionRegister" component={PermissionRegisterScreen} options={{ title: "Registrar permisos" }} />
+      <PermissionStackNav.Screen name="PermissionUpdate" component={PermissionUpdateScreen} options={{ title: "Actualizar permisos" }} />
+      <PermissionStackNav.Screen name="PermissionDelete" component={PermissionDeleteScreen} options={{ title: "Eliminar permisos" }} />
+    </PermissionStackNav.Navigator>
   );
 }
 
 function RolStack() {
   return (
-    <ModuleStackNavigator.Navigator>
-      <ModuleStackNavigator.Screen name="RolList" component={RolList} options={{ title: "Lista de roles" }} />
-      <ModuleStackNavigator.Screen name="RolRegister" component={RolRegisterScreen} options={{ title: "Registrar roles" }} />
-      <ModuleStackNavigator.Screen name="RolUpdate" component={RolUpdateScreen} options={{ title: "Actualizar roles" }} />
-      <ModuleStackNavigator.Screen name="RolDelete" component={RolDeleteScreen} options={{ title: "Eliminar roles" }} />
-    </ModuleStackNavigator.Navigator>
+    <RolStackNav.Navigator initialRouteName="RolList">
+      <RolStackNav.Screen name="RolList" component={RolList} options={{ title: "Lista de roles" }} />
+      <RolStackNav.Screen name="RolRegister" component={RolRegisterScreen} options={{ title: "Registrar roles" }} />
+      <RolStackNav.Screen name="RolUpdate" component={RolUpdateScreen} options={{ title: "Actualizar roles" }} />
+      <RolStackNav.Screen name="RolDelete" component={RolDeleteScreen} options={{ title: "Eliminar roles" }} />
+    </RolStackNav.Navigator>
   );
 }
 
 function UserStack() {
   return (
-    <ModuleStackNavigator.Navigator>
-      <ModuleStackNavigator.Screen name="UserList" component={UserList} options={{ title: "Lista de usuarios" }} />
-      <ModuleStackNavigator.Screen name="UserRegister" component={UserRegisterScreen} options={{ title: "Registrar usuarios" }} />
-      <ModuleStackNavigator.Screen name="UserUpdate" component={UserUpdateScreen} options={{ title: "Actualizar usuarios" }} />
-      <ModuleStackNavigator.Screen name="UserDelete" component={UserDeleteScreen} options={{ title: "Eliminar usuarios" }} />
-    </ModuleStackNavigator.Navigator>
+    <UserStackNav.Navigator initialRouteName="UserList">
+      <UserStackNav.Screen name="UserList" component={UserList} options={{ title: "Lista de usuarios" }} />
+      <UserStackNav.Screen name="UserRegister" component={UserRegisterScreen} options={{ title: "Registrar usuarios" }} />
+      <UserStackNav.Screen name="UserUpdate" component={UserUpdateScreen} options={{ title: "Actualizar usuarios" }} />
+      <UserStackNav.Screen name="UserDelete" component={UserDeleteScreen} options={{ title: "Eliminar usuarios" }} />
+    </UserStackNav.Navigator>
   );
 }
 
-function FormModuleTackParamsList() {
+function FormModuleStack() {
   return (
-    <ModuleStackNavigator.Navigator>
-      <ModuleStackNavigator.Screen name="FormModuleList" component={FormModuleList} options={{ title: "Lista de los formularios y modulos" }} />
-      <ModuleStackNavigator.Screen name="FormModuleRegister" component={FormModuleRegisterScreen} options={{ title: "Registrar formularios y modulos" }} />
-      <ModuleStackNavigator.Screen name="FormModuleUpdate" component={FormModuleUpdateScreen} options={{ title: "Actualizar formularios y modulos" }} />
-      <ModuleStackNavigator.Screen name="FormModuleDelete" component={FormModuleDeleteScreen} options={{ title: "Eliminar formularios y modulos" }} />
-    </ModuleStackNavigator.Navigator>
+    <FormModuleStackNav.Navigator initialRouteName="FormModuleList">
+      <FormModuleStackNav.Screen name="FormModuleList" component={FormModuleList} options={{ title: "Formularios por Módulo" }} />
+      <FormModuleStackNav.Screen name="FormModuleRegister" component={FormModuleRegisterScreen} options={{ title: "Registrar" }} />
+      <FormModuleStackNav.Screen name="FormModuleUpdate" component={FormModuleUpdateScreen} options={{ title: "Actualizar" }} />
+      <FormModuleStackNav.Screen name="FormModuleDelete" component={FormModuleDeleteScreen} options={{ title: "Eliminar" }} />
+    </FormModuleStackNav.Navigator>
+  );
+}
+
+function RolUserStack() {
+  return (
+    <FormModuleStackNav.Navigator initialRouteName="RolUserList">
+      <FormModuleStackNav.Screen name="RolUserList" component={RolUserList} options={{ title: "Lista de Roles por Usuario" }} />
+      <FormModuleStackNav.Screen name="RolUserRegister" component={RolUserRegisterScreen} options={{ title: "Registrar Rol por Usuario" }} />
+      <FormModuleStackNav.Screen name="RolUserUpdate" component={RolUserUpdateScreen} options={{ title: "Actualizar Rol por Usuario" }} />
+      <FormModuleStackNav.Screen name="RolUserDelete" component={RolUserDeleteScreen} options={{ title: "Eliminar Rol por Usuario" }} />
+    </FormModuleStackNav.Navigator>
+  );
+}
+function RolFormPermissionStack() {
+  return (
+    <FormModuleStackNav.Navigator initialRouteName="RolFormPermissionList">
+      <FormModuleStackNav.Screen name="RolFormPermissionList" component={RolFormPermissionList} options={{ title: "Lista de Roles por Formulario y Permiso" }} />
+      <FormModuleStackNav.Screen name="RolFormPermissionRegister" component={RolFormPermissionRegisterScreen} options={{ title: "Registrar Rol por Formulario y Permiso" }} />
+      <FormModuleStackNav.Screen name="RolFormPermissionUpdate" component={RolFormPermissionUpdateScreen} options={{ title: "Actualizar Rol por Formulario y Permiso  " }} />
+      <FormModuleStackNav.Screen name="RolFormPermissionDelete" component={RolFormPermissionDeleteScreen} options={{ title: "Eliminar Rol por Formulario y Permiso" }} />
+    </FormModuleStackNav.Navigator>
   );
 }
 
 export default function Navigation() {
   return (
     <NavigationContainer>
-      <Tab.Navigator screenOptions={{ tabBarActiveTintColor: "purple" }}>
-        <Tab.Screen
-          name="FormTab"
-          component={FormStack}
-          options={{
-            tabBarLabel: "Formularios",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="form" size={size} color={color} />
-            ),
-          }}
+      <RootStack.Navigator initialRouteName="Home">
+        {/* Dashboard tipo Figma */}
+        <RootStack.Screen
+          name="Home"
+          component={HomeScreen}
+          options={{ title: "Administración", headerLargeTitle: true }}
         />
 
-        <Tab.Screen
-          name="PersonTab"
-          component={PersonStack}
-          options={{
-            tabBarLabel: "Personas",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="form" size={size} color={color} />
-            ),
-          }}
-        />
-
-        <Tab.Screen
-          name="ModuleTab"
-          component={ModuleStack}
-          options={{
-            tabBarLabel: "Módulos",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="setting" size={size} color={color} />
-            ),
-          }}
-        />
-
-        <Tab.Screen
-          name="PermissionTab"
-          component={PermissionStack}
-          options={{
-            tabBarLabel: "Permisos",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="setting" size={size} color={color} />
-            ),
-          }}
-        />
-
-        <Tab.Screen
-          name="RolTab"
-          component={RolStack}
-          options={{
-            tabBarLabel: "Roles",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="setting" size={size} color={color} />
-            ),
-          }}
-        />
-
-         <Tab.Screen
-          name="UserTab"
-          component={UserStack}
-          options={{
-            tabBarLabel: "Usuarios",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="setting" size={size} color={color} />
-            ),
-          }}
-        />
-
-         <Tab.Screen
-          name="FormModuleTab"
-          component={FormModuleTackParamsList}
-          options={{
-            tabBarLabel: "FormModules",
-            headerShown: false,
-            tabBarIcon: ({ color, size }) => (
-              <AntDesign name="setting" size={size} color={color} />
-            ),
-          }}
-        />
-
-      </Tab.Navigator>
+        {/* Stacks CRUD (sin header propio; el header lo manejan ellos) */}
+        <RootStack.Screen name="FormStack" component={FormStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="ModuleStack" component={ModuleStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="PermissionStack" component={PermissionStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="UserStack" component={UserStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="RolStack" component={RolStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="PersonStack" component={PersonStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="FormModuleStack" component={FormModuleStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="RolUserStack" component={RolUserStack} options={{ headerShown: false }} />
+        <RootStack.Screen name="RolFormPermissionStack" component={RolFormPermissionStack} options={{ headerShown: false }} />
+      </RootStack.Navigator>
     </NavigationContainer>
   );
 }

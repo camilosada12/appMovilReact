@@ -1,6 +1,6 @@
 // screens/form/FormList.tsx
 import React, { useCallback, useState } from "react";
-import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from "react-native";
+import { View, Text, TouchableOpacity, StyleSheet, ScrollView, RefreshControl } from "react-native";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { FormtackParamsList } from "../../navigations/types";
@@ -12,6 +12,7 @@ type FormScreenNavigationProp = NativeStackNavigationProp<FormtackParamsList, "F
 const FormList = () => {
   const navigation = useNavigation<FormScreenNavigationProp>();
   const [forms, setForms] = useState<IForm[]>([]);
+  const [refreshing, setRefreshing] = useState(false);
 
   const fetchForms = useCallback(async () => {
     try {
@@ -21,6 +22,11 @@ const FormList = () => {
       console.error("Error al traer los formularios", error);
     }
   }, []);
+
+  const onRefresh = useCallback(async () => {
+      try { setRefreshing(true); await fetchForms(); }
+      finally { setRefreshing(false); }
+    }, [fetchForms]);
 
   useFocusEffect(
     useCallback(() => {
@@ -34,20 +40,22 @@ const FormList = () => {
         <Text style={styles.addButtonText}>➕ Agregar Formulario</Text>
       </TouchableOpacity>
 
-      <ScrollView style={styles.listContainer}>
+      <ScrollView 
+      style={styles.listContainer}
+      refreshControl={
+        <RefreshControl
+          refreshing={refreshing}
+          onRefresh={onRefresh}
+          colors={["#4caf50"]}
+          tintColor="#4caf50"
+        />
+      }
+      >
         {forms.map((item) => (
           <View key={item.id} style={styles.card}>
             <Text style={styles.title}>{item.name}</Text>
             <Text style={styles.description}>{item.description}</Text>
 
-            <View style={styles.statusContainer}>
-              <Text style={[styles.status, item.active ? styles.active : styles.inactive]}>
-                {item.active ? "Activo" : "Inactivo"}
-              </Text>
-              <Text style={[styles.status, item.isdeleted ? styles.deleted : styles.ok]}>
-                {item.isdeleted ? "Eliminado" : "Correcto"}
-              </Text>
-            </View>
 
             <View style={styles.buttonRow}>
               <TouchableOpacity
@@ -96,14 +104,6 @@ const styles = StyleSheet.create({
   },
   title: { fontSize: 18, fontWeight: "bold", color: "#3f51b5", marginBottom: 6 },
   description: { fontSize: 14, color: "#555", marginBottom: 10 },
-  statusContainer: { flexDirection: "row", justifyContent: "space-between", marginBottom: 12 },
-  status: {
-    fontSize: 12, fontWeight: "bold", paddingVertical: 4,
-    paddingHorizontal: 8, borderRadius: 4, overflow: "hidden",
-  },
-  active: { backgroundColor: "#d0f0d0", color: "green" },
-  inactive: { backgroundColor: "#f8d7da", color: "red" },
-  deleted: { backgroundColor: "#f8d7da", color: "red" },
   ok: { backgroundColor: "#d0f0d0", color: "green" },
   buttonRow: { flexDirection: "row", justifyContent: "space-between" },
   updateButton: {

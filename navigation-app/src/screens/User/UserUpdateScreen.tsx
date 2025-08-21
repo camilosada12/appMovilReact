@@ -15,7 +15,8 @@ import { UserStack } from "../../navigations/types";
 type DetailsRouteProp = RouteProp<UserStack, "UserUpdate">;
 type Nav = NativeStackNavigationProp<UserStack>;
 
-type IUserUpdate = Pick<IUser, "id" | "userName" | "active" | "personId"> & { password?: string | null };
+// ⬅️ Ahora password es requerido en el update (para no mandarlo nulo)
+type IUserUpdate = Pick<IUser, "id" | "userName" | "active" | "personId" | "password">;
 
 const UserUpdateScreen: React.FC = () => {
   const route = useRoute<DetailsRouteProp>();
@@ -45,6 +46,7 @@ const UserUpdateScreen: React.FC = () => {
         setPeople(persons);
 
         const detail = await getByIdEntity<IUser>(Number(id), "User");
+        // ✅ AHORA SÍ traemos la contraseña del backend
         setUser(detail);
         setOriginal(detail);
       } catch {
@@ -58,10 +60,36 @@ const UserUpdateScreen: React.FC = () => {
   const handleSave = async () => {
     if (!original) return;
 
+    const newName = (user.userName ?? "").trim();
+    const newPwdInput = (user.password ?? "").trim();
+
+    // Validaciones básicas
+    if (!newName) {
+      Alert.alert("Validación", "El nombre de usuario no puede estar vacío.");
+      return;
+    }
+    if (!user.personId || user.personId === 0) {
+      Alert.alert("Validación", "Selecciona una Persona.");
+      return;
+    }
+
+    // Si el usuario escribió una nueva contraseña, usamos esa;
+    // de lo contrario, mandamos la contraseña original para evitar NULL en DB.
+    const passwordToSend =
+      newPwdInput.length > 0 ? newPwdInput : (original.password ?? "");
+
+    if (!passwordToSend) {
+      // Seguridad por si el registro original también viniera sin password
+      Alert.alert("Validación", "La contraseña no puede estar vacía.");
+      return;
+    }
+
+    // Detectar cambios reales (la contraseña cuenta solo si la cambiaron)
     const hasChanges =
-      user.userName?.trim() !== original.userName?.trim() ||
+      newName !== (original.userName ?? "").trim() ||
       user.active !== original.active ||
-      user.personId !== original.personId;
+      user.personId !== original.personId ||
+      (newPwdInput.length > 0 && newPwdInput !== (original.password ?? ""));
 
     if (!hasChanges) {
       Alert.alert("Sin cambios", "Realiza al menos un cambio antes de guardar.");
@@ -71,10 +99,13 @@ const UserUpdateScreen: React.FC = () => {
     try {
       const payload: IUserUpdate = {
         id: user.id,
-        userName: user.userName?.trim(),
+        userName: newName,
         active: !!user.active,
         personId: user.personId,
+        // ✅ SIEMPRE enviamos password (nueva o la original)
+        password: passwordToSend,
       };
+
       await updateEntity<IUserUpdate>(payload, "User");
       Alert.alert("Éxito", "Usuario actualizado correctamente.", [
         { text: "OK", onPress: () => navigation.goBack() },
@@ -85,7 +116,6 @@ const UserUpdateScreen: React.FC = () => {
         e?.body?.error || e?.body?.title || e?.message || "No se pudo actualizar el usuario.";
       Alert.alert("Error", String(backendMsg));
     }
-
   };
 
   if (loading) {
@@ -110,8 +140,11 @@ const UserUpdateScreen: React.FC = () => {
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 16, backgroundColor: "#fff" },
   button: {
-    backgroundColor: "#4a90e2", padding: 12, borderRadius: 8,
-    alignItems: "center", marginTop: 16,
+    backgroundColor: "#4a90e2",
+    padding: 12,
+    borderRadius: 8,
+    alignItems: "center",
+    marginTop: 16,
   },
   buttonText: { color: "#fff", fontWeight: "bold" },
 });

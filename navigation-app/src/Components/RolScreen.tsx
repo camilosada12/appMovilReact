@@ -27,16 +27,6 @@ const RolScreen: React.FC<Props> = ({ Rol, handleChange }) => {
         value={Rol.description}
         onChangeText={(text) => handleChange("description", text)}
       />
-
-      <View style={styles.switchContainer}>
-        <Text style={styles.label}>Activo</Text>
-        <Switch
-          value={Rol.active}
-          onValueChange={(value) => handleChange("active", value)}
-          thumbColor={Rol.active ? "#4CAF50" : "#f4f3f4"}
-          trackColor={{ false: "#ccc", true: "#81C784" }}
-        />
-      </View>
     </ScrollView>
   );
 };

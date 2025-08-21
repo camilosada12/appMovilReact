@@ -50,15 +50,6 @@ const UserList: React.FC = () => {
                 {/* En título mostramos Nombre y Apellido */}
                 <Text style={styles.title}>{fullName}</Text>
 
-                {/* Info adicional */}
-                <Text style={styles.description}>Correo: {emailShown}</Text>
-
-                <View style={styles.statusContainer}>
-                  <Text style={[styles.status, u.active ? styles.active : styles.inactive]}>
-                    {u.active ? "Activo" : "Inactivo"}
-                  </Text>
-                </View>
-
                 <View style={styles.buttonRow}>
                   <TouchableOpacity
                     style={styles.updateButton}
@@ -98,10 +89,6 @@ const styles = StyleSheet.create({
   },
   title: { fontSize: 16, fontWeight: "bold", color: "#3f51b5", marginBottom: 8 },
   description: { fontSize: 14, color: "#555", marginBottom: 6 },
-  statusContainer: { flexDirection: "row", justifyContent: "space-between", marginTop: 8 },
-  status: { fontSize: 12, fontWeight: "bold", paddingVertical: 4, paddingHorizontal: 8, borderRadius: 4 },
-  active: { backgroundColor: "#d0f0d0", color: "green" },
-  inactive: { backgroundColor: "#f8d7da", color: "red" },
   buttonRow: { flexDirection: "row", justifyContent: "space-between", marginTop: 12 },
   updateButton: {
     backgroundColor: "#2196f3", paddingVertical: 8, paddingHorizontal: 12,

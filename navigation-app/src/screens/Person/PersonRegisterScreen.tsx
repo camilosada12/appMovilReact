@@ -7,6 +7,9 @@ import { useNavigation } from "@react-navigation/native";
 import { PersonTasckParamsList } from "../../navigations/types";
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 
+const normalizePhone = (s: string) => (s ?? "").replace(/\D/g, "");
+const isValidPhone = (digits: string) => digits.length === 10;
+
 const PersonRegisterScreen = () => {
   const [Person, setPerson] = useState<IPerson>({
     id: 0,
@@ -24,33 +27,41 @@ const PersonRegisterScreen = () => {
   };
 
   const registerPerson = async () => {
-    if (
-      Person.firstName.trim() === "" ||
-      Person.lastName.trim() === "" ||
-      Person.phonenumber.trim() === ""
-    ) {
-      Alert.alert("Error", "Por favor complete todos los campos.");
+    const first = (Person.firstName ?? "").trim();
+    const last  = (Person.lastName ?? "").trim();
+    const phoneDigits = normalizePhone(Person.phonenumber ?? "");
+
+    if (!first || !last || !phoneDigits) {
+      Alert.alert("Error", "Por favor complete todos los campos (incluido el teléfono).");
+      return;
+    }
+
+    if (!isValidPhone(phoneDigits)) {
+      Alert.alert("Validación", "El teléfono debe tener exactamente 10 dígitos.");
       return;
     }
 
     try {
-      console.log("Enviando Personas registradas...", Person);
-      await createEntity(Person, "Person");
-      console.log("Persona registrada");
-      Alert.alert("Éxito", "Persona registrado correctamente", [
-        { text: "OK", onPress: () => navigation.goBack() }, // Vuelve a la lista
+      const payload: IPerson = {
+        ...Person,
+        firstName: first,
+        lastName: last,
+        phonenumber: phoneDigits, // ← normalizado
+      };
+
+      await createEntity(payload, "Person");
+      Alert.alert("Éxito", "Persona registrada correctamente", [
+        { text: "OK", onPress: () => navigation.goBack() },
       ]);
     } catch (error) {
       console.error("Error en el registro:", error);
-      Alert.alert("Error", `No se pudo registrar la Persona. ${error}`);
+      Alert.alert("Error", `No se pudo registrar la Persona.`);
     }
   };
-
 
   return (
     <View style={styles.container}>
       <PersonScreen Person={Person} handleChange={handleChange} />
-
       <TouchableOpacity style={styles.button} onPress={registerPerson}>
         <Text style={styles.buttonText}>Guardar</Text>
       </TouchableOpacity>
@@ -59,11 +70,7 @@ const PersonRegisterScreen = () => {
 };
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    padding: 16,
-    backgroundColor: "#fff",
-  },
+  container: { flex: 1, padding: 16, backgroundColor: "#fff" },
   button: {
     backgroundColor: "#4a90e2",
     padding: 12,
@@ -71,10 +78,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     marginTop: 16,
   },
-  buttonText: {
-    color: "#fff",
-    fontWeight: "bold",
-  },
+  buttonText: { color: "#fff", fontWeight: "bold" },
 });
 
 export default PersonRegisterScreen;

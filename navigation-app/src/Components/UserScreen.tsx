@@ -40,14 +40,6 @@ const UserScreen: React.FC<Props> = ({ user, people, handleChange }) => {
         />
       </View>
 
-      <View style={[styles.field, styles.row]}>
-        <Text style={styles.label}>Activo</Text>
-        <Switch
-          value={!!user.active}
-          onValueChange={(v) => handleChange("active", v as IUser["active"])}
-        />
-      </View>
-
       <View style={styles.field}>
         <Text style={styles.label}>Persona</Text>
         <Picker

@@ -27,16 +27,6 @@ const ModuleScreen: React.FC<Props> = ({ Module, handleChange }) => {
                 value={Module.description}
                 onChangeText={(text) => handleChange("description", text)}
             />
-
-            <View style={styles.switchContainer}>
-                <Text style={styles.label}>Activo</Text>
-                <Switch
-                    value={Module.active}
-                    onValueChange={(value) => handleChange("active", value)}
-                    thumbColor={Module.active ? "#4CAF50" : "#f4f3f4"}
-                    trackColor={{ false: "#ccc", true: "#81C784" }}
-                />
-            </View>
         </ScrollView>
     );
 };
